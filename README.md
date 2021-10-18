@@ -10,7 +10,7 @@ Every class should have only one responsibility.
 "Software entities should be open for extension, but closed for modification."
 
 #### The Liskov substitution principle: 
-"Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it."
+"Base classes must be able to use objects of derived classes without knowing it."
 
 #### The Interface segregation principle: 
 "Many client-specific interfaces are better than one general-purpose interface."
