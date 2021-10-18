@@ -7,7 +7,7 @@ The SOLID concepts are
 Every class should have only one responsibility.
 
 #### The Open–closed principle: 
-"Software entities should be open for extension, but closed for modification."
+"Entities should be open for extension, but closed for modification."
 
 #### The Liskov substitution principle: 
 "Base classes must be able to use objects of derived classes without knowing it."
@@ -16,4 +16,4 @@ Every class should have only one responsibility.
 "Many client-specific interfaces are better than one general-purpose interface."
 
 #### The Dependency inversion principle: 
-"Depend upon abstractions, [not] concretions."
+"Depend upon abstractions, not concretions."
