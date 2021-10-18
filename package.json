@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "scripts": {
+	"ts": "ts-node",
+	"compile": "tsc"
+  },
+  "author": "Srinivasan Nagarasan",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.3.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  }
+}
