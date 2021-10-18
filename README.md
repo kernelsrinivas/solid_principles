@@ -1,5 +1,5 @@
 # Solid Principles in Typescript
-typescript basic of SOLID principles
+typescript basic for SOLID principles
 
 The SOLID concepts are
 
